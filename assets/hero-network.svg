@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Цифровая инфраструктура и аналитика">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061a33"/><stop offset="0.58" stop-color="#12365b"/><stop offset="1" stop-color="#0b2545"/></linearGradient>
+<radialGradient id="r" cx="70%" cy="35%" r="55%"><stop stop-color="#d59b5a" stop-opacity="0.55"/><stop offset="1" stop-color="#d59b5a" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="700" fill="url(#g)"/>
+<rect width="1200" height="700" fill="url(#r)"/>
+
+<g opacity="0.85" stroke="#dbe8ff" stroke-width="2" fill="none">
+<path d="M85 530 C260 350 320 420 475 250 S820 190 1080 95"/>
+<path d="M120 140 C310 210 375 110 570 260 S810 470 1110 370" opacity="0.45"/>
+<path d="M185 615 C410 500 620 535 840 380 S1030 280 1140 510" opacity="0.35"/>
+</g>
+<g fill="#ffffff">
+<circle cx="150" cy="510" r="8"/><circle cx="330" cy="370" r="6"/><circle cx="480" cy="250" r="9"/><circle cx="710" cy="205" r="7"/><circle cx="910" cy="150" r="8"/><circle cx="1080" cy="95" r="10"/>
+<circle cx="180" cy="170" r="7"/><circle cx="365" cy="140" r="6"/><circle cx="570" cy="260" r="8"/><circle cx="805" cy="430" r="7"/><circle cx="1110" cy="370" r="8"/>
+</g>
+<g fill="none" stroke="#ffffff" opacity="0.45"><circle cx="910" cy="150" r="48"/><circle cx="570" cy="260" r="44"/><circle cx="330" cy="370" r="40"/></g>
+<text x="76" y="130" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">АНО «Новое время»</text>
+<text x="76" y="184" font-family="Arial, sans-serif" font-size="22" fill="#dbe8ff">аналитика • цифровые технологии • проекты развития</text>
+
+</svg>
